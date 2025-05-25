@@ -1,0 +1,6 @@
+streamlit
+pyttsx3
+gTTS
+langdetect
+arabic-reshaper
+python-bidi
